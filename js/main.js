@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Nirmani Dhanasekara", "UX UI Designer", "FrontEnd Developer"],
+      strings: ["Nirmani Dhanasekara", "UI UX Designer", "FrontEnd Developer"],
       typeSpeed: 100,
       loop: true,
     });
